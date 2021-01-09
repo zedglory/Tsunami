@@ -1,2 +1,2 @@
 # Tsunami
-whatever
+just try
